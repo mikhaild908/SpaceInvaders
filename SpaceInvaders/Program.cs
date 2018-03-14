@@ -15,7 +15,7 @@ namespace SpaceInvaders
         static int _currX;
         static int _currY;
 
-        static int _numberOfEnemyShips = 20;
+        static int _numberOfEnemyShips = 15;
         static int _bulletRange = 15;
         static int _bulletDelay = 20;
         static int _explosionDelay = 100;
